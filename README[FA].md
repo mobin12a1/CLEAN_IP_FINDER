@@ -5,7 +5,8 @@
 
 ---
 
-![Iran flag.svg](Iran flag.svg.png)
+![IRAN Flag](https://github.com/mobin12a1/CLEAN_IP_FINDER/blob/main/Iran%20flag.svg.png)
+
 
 ## 📌 این ابزار چیکار میکنه؟
 
