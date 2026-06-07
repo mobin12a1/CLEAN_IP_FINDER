@@ -5,7 +5,7 @@
 
 ---
 
-![Iran flag.svg](Cache/Iran%20flag.svg.png)
+![Iran flag.svg](Iran flag.svg.png)
 
 ## 📌 این ابزار چیکار میکنه؟
 
